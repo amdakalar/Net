@@ -25,7 +25,7 @@
   </section>
 
   <footer>
-    <p>&copy; 2025 Netline . All rights reserved.</p>
+    <p>&copy; 2025 Netline. All rights reserved.</p>
   </footer>
 </body>
 </html>
